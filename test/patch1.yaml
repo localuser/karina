@@ -44,7 +44,7 @@ spec:
     volumeClaimTemplate: {}
   resources:
     requests:
-      memory: 256Mi
+      memory: 100Mi
       cpu: 10m
   retention: 10h
 ---
